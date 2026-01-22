@@ -1,6 +1,6 @@
 # Hi, I'm Trevor 👋
 
-I'm a **Software Engineer** and **Computer Science graduating May 2026** with a **Mathematics minor**, interested in building **scalable, secure, and impactful software systems**. My background spans full-stack development, backend systems, and applied machine learning.
+I'm a **Software Engineer** and **Computer Science major graduating May 2026** with a **Mathematics minor**, interested in building **scalable, secure, and impactful software systems**. My background spans full-stack development, backend systems, and applied machine learning.
 
 ---
 

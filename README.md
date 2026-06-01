@@ -58,5 +58,5 @@ Java/MySQL-based system for managing students, courses, and enrollment workflows
 ## 📫 Let’s Connect
 - 🌐 Portfolio: https://trevorkkaayaportfolio.netlify.app
 - 💼 LinkedIn: https://www.linkedin.com/in/trevor-kkaaya
-- 📧 Email: trevor.kkaaya@gmail.com
+- 📧 Email: kkaayatrevor@gmail.com
 

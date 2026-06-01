@@ -6,7 +6,6 @@ I'm a **Software Engineer** and **Computer Science major graduating May 2026** w
 
 ## 🚀 About Me
 - 🎓 Computer Science (B.S.) with Mathematics minor
-- 💼 Software Engineer Intern experience at **HubSpot**, **ServiceNow**, and **Intuit**
 - 🧠 Strong foundation in **data structures, algorithms, and system design**
 - 🌍 Open to **New Grad** and **Internship** opportunities
 
